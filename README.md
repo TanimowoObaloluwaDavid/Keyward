@@ -329,10 +329,8 @@ exist.
 |---|---|
 | **[TanimowoObaloluwaDavid](https://github.com/TanimowoObaloluwaDavid)** | Author and maintainer |
 
-> Built with [Claude](https://claude.ai) — architecture, cryptography, interface and test suite.
-
-Contributions are welcome. Please read [`docs/SECURITY.md`](docs/SECURITY.md) before opening an
-issue about a vulnerability, and include a test with any change to `Keyward.Core`.
+> Contributions are welcome. Please read [`docs/SECURITY.md`](docs/SECURITY.md) before opening an
+> issue about a vulnerability, and include a test with any change to `Keyward.Core`.
 
 ---
 
