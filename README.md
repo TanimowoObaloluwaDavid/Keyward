@@ -319,19 +319,20 @@ exist.
 | [`docs/ENVIRONMENT.md`](docs/ENVIRONMENT.md) | Why C#/WPF — with the measurements behind it |
 | [`docs/IMPLEMENTATION-REPORT.md`](docs/IMPLEMENTATION-REPORT.md) | What was built, how it was verified, what is missing |
 
----
+## Contributors
 
-## Contributing
+<a href="https://github.com/TanimowoObaloluwaDavid/Keyward/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=TanimowoObaloluwaDavid/Keyward" alt="Contributors">
+</a>
 
-Issues and pull requests are welcome. Two things to know before you start:
+| Contributor | Role |
+|---|---|
+| **[TanimowoObaloluwaDavid](https://github.com/TanimowoObaloluwaDavid)** | Author and maintainer |
 
-1. **Security reports.** If you find a vulnerability, please open a private advisory rather than a
-   public issue, and give a reasonable window for a fix before disclosing.
-2. **The test suite is the contract.** Any change to `Core` should come with tests. The crypto
-   tests are the reason two serious bugs were caught; please keep that bar.
+> Built with [Claude](https://claude.ai) — architecture, cryptography, interface and test suite.
 
-Everything here is written without third-party dependencies, and that is a deliberate constraint —
-please do not introduce one without explaining why it is necessary.
+Contributions are welcome. Please read [`docs/SECURITY.md`](docs/SECURITY.md) before opening an
+issue about a vulnerability, and include a test with any change to `Keyward.Core`.
 
 ---
 
